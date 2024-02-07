@@ -44,7 +44,6 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Kimsoo0119&show_icons=true"/>
 
 
   
