@@ -44,6 +44,17 @@
 
 <br><br><br>
 
+
+<div align=center><h1>🌍 Open Source Contributions 🌍</h1></div>
+<br>
+
+| Project | PR | Description | Status |
+|---------|-----|-------------|--------|
+| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | [#11974](https://github.com/typescript-eslint/typescript-eslint/pull/11974) | feat(eslint-plugin-internal): add prefer-tsutils-methods rule | ✅ Merged |
+| [gemini-cli](https://github.com/google-gemini/gemini-cli) |[#16958](https://github.com/google-gemini/gemini-cli/pull/16958) | fix(automation): fix jq quoting error in pr-triage.sh | ✅ Merged |
+
+<br><br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kimsoo0119&theme=chalk&row=1&column=5&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
   
